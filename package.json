@@ -12,13 +12,13 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:extension.typeof"
+		"onCommand:extension.typeof"
 	],
-    "main": "./out/extension.js",
-    "repository": "https://github.com/wulunyi/vsce-typeof-jsonc.git",
+	"main": "./out/extension.js",
+	"repository": "https://github.com/wulunyi/vsce-typeof-jsonc.git",
 	"contributes": {
 		"commands": [
-            {
+			{
 				"command": "extension.typeof",
 				"title": "typeof from clipboard"
 			}
@@ -54,6 +54,6 @@
 		"dts-dom": "^3.3.0",
 		"jsdom": "^15.1.1",
 		"lodash": "^4.17.11",
-		"typeof-jsonc": "^1.1.10"
+		"typeof-jsonc": "^1.1.11-beta.1"
 	}
 }
