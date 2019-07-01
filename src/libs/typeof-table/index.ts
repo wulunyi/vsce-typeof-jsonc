@@ -11,7 +11,7 @@ interface Options {
 }
 
 export function typeofTable(tableHtml: string, options: Options = {
-    name: 'root',
+    name: 'Root',
     nameCol: 0,
     typeCol: 1,
     descCol: 2
