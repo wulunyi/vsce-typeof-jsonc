@@ -52,7 +52,7 @@
 		"@expo/osascript": "^2.0.0",
 		"change-case": "^3.1.0",
 		"dts-dom": "^3.3.0",
-		"jsdom": "^15.1.1",
+		"jsdom": "^16.5.0",
 		"lodash": "^4.17.11",
 		"typeof-jsonc": "^1.1.11-beta.1"
 	}
